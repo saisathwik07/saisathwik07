@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saisathwik07](https://github.com/saisathwik07)
 
-- Portfolio link [https://sathwik07portfolio.vercel.app/](https://saisathwikportfolio.vercel.app/)
+- Portfolio link [https://saisathwikportfolio.vercel.app/](https://saisathwikportfolio.vercel.app/)
 
 - 💬 Ask me about **Java , Datastructures and Algorithms,Python**
 
