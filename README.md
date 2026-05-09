@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Sathwik Nethani</h1>
 <h3 align="center">💻Full Stack Developer | Java | Python | Creative Thinking | CSE '26</h3>
 
-- 🔭 I’m currently working on [Plant-disease-detection](https://github.com/saisathwik07/Plant-disease-detection)
+- 🔭 I’m currently working on [Gaas - GreenHouse as a Service](https://github.com/saisathwik07/greenhouse-as-a-service)
 
 - 🌱 I’m currently learning **DATA SCIENCE AND AI**
 
